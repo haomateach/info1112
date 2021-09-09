@@ -48,9 +48,9 @@ Note that don't overstress yourself with the pressure of the development environ
 
 ## FAQ
 
-### Regarding Assignment and Submission
+### Regarding Github
 
- Q1: How to use Github? A:  [Short Version](https://youtu.be/iv8rSLsi1xo) &nbsp; &nbsp;
+We won't require you to be an expert of Github in this course, but if you are interested, you can refer to [Short Version](https://youtu.be/iv8rSLsi1xo) &nbsp; &nbsp;
    [Long Version](https://youtu.be/RGOj5yH7evk)
    
 
