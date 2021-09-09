@@ -32,7 +32,7 @@ Note: Most videos can be watched at 1.5X speed
 
 ## Development Environment
 
-In this course, we will use either CodeLite or Visual Studio (Not Visual Studio Code, Visual Studio and Visual Studio Code are two different softwares.). 
+In this course, we will use either CodeLite or Visual Studio (Not Visual Studio Code, Visual Studio and Visual Studio Code are two different softwares.). If you are a Mac user, you should use Codelite as Visual Studio has no C++ version for Mac. 
 
 - CodeLite Setup: [[1, Section 2]](https://www.udemy.com/course/beginning-c-plus-plus-programming/learn/lecture/18801420#overview)
 
