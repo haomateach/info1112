@@ -83,27 +83,27 @@ https://docs.github.com/en/github/managing-your-work-on-github/file-attachments-
 
 For screen recording, I recommend you to upload to a cloud service like google drive or one drive or even youtube, and insert the link to the issue. 
 
-## Detailed Schedule
+## Detailed Watching List
  
 S: Section  &nbsp; C: Component
 
 For example, [1, S 7, 8 and S 9 (C 76 - 81)]    represents Section 7,8 and 9 (only Components 76-81 of Section 9) of Course Material [1] (see above)
  
-| Week | Watching List                                                    | Complementary Materials|To-Do List|
-| -----|:----------------------------------------------------------------:| ----------------------:|:--------:|
-| 1    | [1, S 1 - 3],[Learn C++ in 4 hours](https://youtu.be/vLnPwxZdW4Y)|                        |          |
-| 2    | [1, S 4 - 6]                                                     |                        |          |
-| 3    | [1, S 7, 8 and S 9 (C 76 - 81)]                                  |                        |          |
-| 4    | [1, S 9 - 10 ]                                                   |                        |          |                          
-| 5    | [1, S 11]                                                        |                        |          |
-| 6    | [1, S 12]                                                        |                        |          |
-| 7    | [1, S 13]                                                        |                        |          |
-| 8    | [1, S 14]                                                        |                        |          |
-| 9    | [1, S 15]                                                        |                        |          |
-| 10   | [1, S 16]                                                        |                        |          |
-| 11   | [1, S 17 - 18]                                                   |                        |          |
-| 12   | [1, S 19]                                                        |                        |          |
-| 13   | [1, S 20]                                                        |                        |          |
+| Week | Watching List                                                    | 
+| -----|:----------------------------------------------------------------:| 
+| 1    | [1, S 1 - 3],[Learn C++ in 4 hours](https://youtu.be/vLnPwxZdW4Y)|                        
+| 2    | [1, S 4 - 6]                                                     |                       
+| 3    | [1, S 7, 8 and S 9 (C 76 - 81)]                                  |                       
+| 4    | [1, S 9 - 10 ]                                                   |                                                
+| 5    | [1, S 11]                                                        |                       
+| 6    | [1, S 12]                                                        |                       
+| 7    | [1, S 13]                                                        |                       
+| 8    | [1, S 14]                                                        |                        
+| 9    | [1, S 15]                                                        |                       
+| 10   | [1, S 16]                                                        |                        
+| 11   | [1, S 17 - 18]                                                   |                       
+| 12   | [1, S 19]                                                        |                       
+| 13   | [1, S 20]                                                        |                       
 
 
 
