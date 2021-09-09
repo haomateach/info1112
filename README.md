@@ -1,15 +1,16 @@
 # INFO 1211 - FALL 2021
 
-Course Duration: 13 Weeks (10 hours needed every week on average)
+Course Duration: 13 Weeks (7 hours needed every week on average)
 
 The course will be Asynchronous. I will upload videos every week. 
 
 For most of the weeks, students need to complete weekly:
 
-- Udemy video sections (~ 4 hours) 
-- Video uploaded by the instructor (~ 1 hour) 
+- Udemy video sections (~ 3 hours) 
+- Video uploaded by the instructor (~ 1.5 hour) 
 - Practise Programming along with video watching (~ 2 hours)
 - Quiz (~ 10 mins)
+- Assignments (We have 4 assignments in total)
 
 Note: Most videos can be watched at 1.5X speed
 
@@ -49,24 +50,21 @@ Note that don't overstress yourself with the pressure of the development environ
 
 ### Regarding Assignment and Submission
 
-Q1: What are in the weekly Assignment? A: 2 - 3 Programming Questions +  1 Bug Report
- 
-Q2: What is a Bug Report? A: It's a report that you will write using Markdown language to self-reflect on the mistakes you have made, or could have made, in the assigned Programming Questions. The bug report template can be found [HERE](bug-report-template.md)
-
-Q3: How to write Markdown? A: [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) or [MarkDown Crashcourse](https://youtu.be/HUBNt18RFbo). Don't force yourself to memorize the Markdown syntax here. You can always refer to the cheatsheet when you use it. 
-
-Q4: How to submit weekly assignment? A: Please refer to the Assignment Submission Instruction videos on Moodle.  
- 
-Q5: How to use Github? A:  [Short Version](https://youtu.be/iv8rSLsi1xo) &nbsp; &nbsp;
+ Q1: How to use Github? A:  [Short Version](https://youtu.be/iv8rSLsi1xo) &nbsp; &nbsp;
    [Long Version](https://youtu.be/RGOj5yH7evk)
    
 
 ### Regarding Quiz and Exams
 
-Q1: What's the format of quizzes and exams in this course? A: MCQ
+Q1: What's the format of quizzes and exams in this course? A: Mostly MCQ
 
 ### Regarding Emails
-For general questions, please post it in the Issues section so that it could benefit everyone. 
+For general questions, please post it in the Issues section so that it could benefit everyone. When posting issues, please make sure that you stricly follow the format below: 
+
+- Student ID:
+- Question: 
+
+
 If you want to email the instructor regarding more personal questions, please make sure you use the **school email** and follow the format below:
 
 - Course and Section No.:
