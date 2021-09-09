@@ -1,4 +1,4 @@
-INFO 1211 - FALL 2021
+# INFO 1211 - FALL 2021
 
 Course Duration: 13 Weeks (10 hours needed every week on average)
 
