@@ -173,29 +173,4 @@ Q12. Is the following an example of integer division or floating-point division?
 portion = 70 / 3;
 ```
 
-Q13. Convert the following pseudocode to C++ code. Be sure to define the appropriate variables.
-- Store 20 in the speed variable.
-- Store 10 in the time variable.
-- Multiply speed by time and store the result in the distance variable.
-- Display the contents of the distance variable.
 
-Q14. Convert the following pseudocode to C++ code. Be sure to define the appropriate variables.
-- Store 172.5 in the force variable.
-- Store 27.5 in the area variable.
-- Divide force by area and store the result in the pressure variable.
-- Display the contents of the pressure variable.
-
-Q15. There are a number of syntax errors in the following program. Locate as many as you can.
-
-``` cpp
-*/ What's wrong with this program? /*
-#include iostream
-using namespace std;
-int main();
-}
-int a, b, c \\ Three integers
-a = 3
-b = 4
-c = a + b
-Cout < "The value of c is %d" < C;
-```
