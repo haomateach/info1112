@@ -247,24 +247,3 @@ int fptr = &level;
 int *iptr = &ivalue;
 int ivalue;
 ```
-
-# Homework
-
-Q15.  Rewrite the function below so that so it uses pointers instead of reference variables, and then **demonstrate the function in a complete program**.
-
-``` cpp
-int doSomething(int &x, int &y)
-{
-	int temp = x;
-	x = y * 5;
-	y = temp * 3;
-	return x + y;
-}
-
-```
-
-Q16. Write a function that accepts an int array and the array’s size as arguments. The function should create a **copy** of the array, except that the element values should be reversed in the copy. The function should return a pointer to the new array. Demonstrate the function in a complete program.
-
-Hint: 
-- Use Dynamic Memory Allocation
-- The original array should not be modified. 
