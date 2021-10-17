@@ -375,20 +375,3 @@ Q19. If class X declares function f as a friend, does function f become a member
 
 No.
 </details>
-
-# Homework
-
-Q20. Write a class declaration named **Cylinder**  with a private member variable named `radius` and `height` . Write set and get functions to access the `radius` and `height` variables, and a function named `getVolume` that returns the volume of the Cylinder. The volume is calculated as
-```
-3.14159 * radius * radius * height
-```
-Use test cases in main function to test your class. 
-
-
-Q21. Design a `PayRoll` class that has data members for an employee’s hourly pay rate, number of hours worked, and total pay for the week. Write a program with an array of
-seven PayRoll objects. The program should ask the user for the number of hours each employee has worked and will then display the amount of gross pay each has earned.
-
-Please conduct Input Validation and do not accept values greater than 60 for the number of hours worked.
-
-  
-  
