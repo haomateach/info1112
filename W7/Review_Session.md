@@ -337,13 +337,13 @@ Q17. What is the difference between an instance member variable and a static mem
 When a member variable is declared with the key word static , there will be only one copy of the member variable in memory, regardless of the number of instances of the class that might exist. A single copy of a class’s static member variable is shared by all instances of the class.
 </details>
 
-Q18. Static member variables are declared inside the class declaration. Where are static member variables defined?
+Q18. Static member variables are declared inside the class declaration. Where are static member variables defined/initialized?
 
 <details>
 
 <summary> Click me to show the answer below!</summary>
 
-Outside of the class definition. For example,
+You must explicitly define/initialize the static member outside of the class, in the global scope. For example,
 
 ``` cpp
  // Tree class
