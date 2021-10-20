@@ -109,7 +109,7 @@ Q5. Briefly describe the purpose of a constructor.
 <summary> Click me to show the answer below!</summary>
 
 
-A constructor is a member function that has the same name as the class. It is automatically called when the object is created in memory, or instantiated. It is helpful to think of constructors as initialization routines. They
+A constructor is a member function that has the same name as the class. It is automatically called when the object is created in memory, or instantiated. It is helpful to think of constructors as initialization routines. 
 
 </details>
 
